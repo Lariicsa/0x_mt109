@@ -1,0 +1,52 @@
+# 1
+- Get System requirements
+- Get software requirements
+- Analysis
+- Design
+- Implementation
+- Testing
+- Mainteinance
+
+Is often used in big projects with robust scope and in organitzation that works whit milestones.
+
+# 2
+Unit tests are the tests that each developer realizes in its own code developed,
+while integration tests are the integration of all these test realized by each developer.
+
+# 3
+At the begining of the sprint, all the team meets to plan the Sprint, each team player define small tasks based in a part of project.
+Each task is valued depend its complexity level (using fibonacci numbers).
+When the sprint is started, then it can't be added an extra task.
+At the end of the sprint the team check each task realized during the sprint, and is realized a team review to check which activity could be improved, wich could be started, and wich could be retired.
+(My favorite methodology)
+
+# 4
+Is a software development technique, basically guided by testing.
+First is coded the test and then the implementation, it could be autimatized then this is refactored.
+Is usefull to minimize bugs, and produce modular, reusable and maintenable software.
+
+# 5
+Is when the process to develop, testing and deploy is automatized.
+- It lets to developers to integrate easy it work
+- It agilize the flow of the project
+- It is autodocumented
+- It lets the team know all the team code and work
+
+# 6 
+A monolithic applications are hard to be escalable, and microservices are easy to maintenaince due to its modularization.
+
+# 7
+IDK
+
+# 8
+The developers get feedback at the same time they solve code problems and it let them to solve the problems fast and clean.
+
+#9
+- Bulma , because I think Bulma's project is a clean framework and really interesting
+- Normalize, is a simple project based in improve CSS resets and super usefull since ever...
+- Node, I think this manager came to change the way devs share & develop their projects
+
+#10
+- 1984. George Orwell
+- The Numerati, Stephen Baker
+- Emotional Inteligence, Daniel Goleman
